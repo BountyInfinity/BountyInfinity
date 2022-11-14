@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm BountyInfinity</h1>
 <h3 align="center">A person who can code buggy projects.</h3>
 <h2>About me</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1mBounty&no-frame=trueno-bg=true" alt="1mBounty" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bountylnfinity&no-frame=trueno-bg=true" alt="BountyInfinity" /></a></p>
 
 - 🔭 I’m currently working on [3kh0's Website](https://github.com/3kh0/3kh0.github.io)!
 
