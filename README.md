@@ -3,7 +3,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 <p align="left"> 
-  <img alt="" src="https://img.shields.io/badge/OS-Ubuntu%20Linux-red/?logo=ubuntulinux&color=1793d1">
+  <img alt="" src="https://img.shields.io/badge/Uses-Ubuntu%20Linux-red/?logo=ubuntulinux&color=1793d1">
   <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
