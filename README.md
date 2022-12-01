@@ -16,5 +16,6 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Bountylnfinity&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="BountyInfinity" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bountylnfinity&theme=dark" alt="BountyInfinity" /></p><br>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/motortruck1221/motortruck1221/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/motortruck1221/motortruck1221/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </html>
