@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bountylnfinity&no-frame=trueno-bg=true" alt="BountyInfinity" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bountylnfinity&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left">Stats</h2>
 
