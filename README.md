@@ -18,7 +18,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bountylnfinity&theme=dark" alt="BountyInfinity" /></p><br>
 
 <p align="center">
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Bountylnfinity/Bountylnfinity/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Bountylnfinity/Bountylnfinity/output/github-contribution-grid-snake.svg#gh-light-mode-only)
