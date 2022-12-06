@@ -1,6 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+BountyInfinity!;HTML+Coder;JavaScript+Programer">
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 <h2>About me</h2>
 <p align="left"> 
   <img alt="" src="https://img.shields.io/badge/Uses-Ubuntu%20Linux-red/">
