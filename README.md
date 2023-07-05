@@ -10,12 +10,12 @@
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B0UNTYINFINITY&no-frame=trueno-bg=true&theme=matrix" alt="BountyInfinity" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BountyInfinity&no-frame=trueno-bg=true&theme=matrix" alt="BountyInfinity" /></a> </p>
 
 <h2 align="left">Stats</h2>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=B0UNTYINFINITY&theme=dark" alt="BountyInfinity" /></p><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BountyInfinity&theme=dark" alt="BountyInfinity" /></p><br>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/B0UNTYINFINITY/B0UNTYINFINITY/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/B0UNTYINFINITY/B0UNTYINFINITY/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/B0UNTYINFINITY/B0UNTYINFINITY/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/BountyInfinity/BountyInfinity/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </html>
