@@ -5,7 +5,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/OS-Ubuntu%20Linux-/?logo=Ubuntu&color=darkorange" alt="ubuntu">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-/?logo=visualstudiocode&logoColor=blue&color=blue" alt="vscode">
-  <img src="https://img.shields.io/badge/Knows-MarkDown-/?logo=markdown" alt="markdown">
+  <img src="https://img.shields.io/badge/Knows-MarkDown-/?logo=markdown&color=white" alt="markdown">
   <img src="https://img.shields.io/badge/Knows-HTML-/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-JavaScript-/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-C++-/?logo=cplusplus&logoColor=blue&color=blue" alt="c++">
