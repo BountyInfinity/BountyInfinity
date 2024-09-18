@@ -1,6 +1,31 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+BountyInfinity!;HTML+Coder;JavaScript+Programer">
-<h2>Programmer Humor</h2>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p style="text-color:green">
+
+```
+{
+    "OS": {
+        "Main": "Ubuntu Linux",
+        "Other": "Windows 10"
+    },
+
+    "Languages": [
+        "Markdown",
+        "CSS",
+        "HTML",
+        "Javascript",
+        "Java",
+        "C++",
+        "Rust"
+    ],
+
+    "Favorite": {
+        "Language": "Rust",
+        "Programmer": "Linus Torvalds",
+        "Mode": "Dark"
+    }
+}
+```
+</p>
+
 <h2>About me</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/OS-Ubuntu%20Linux-/?logo=Ubuntu&color=darkorange" alt="ubuntu">
@@ -20,4 +45,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/B0UNTYINFINITY/B0UNTYINFINITY/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/BountyInfinity/BountyInfinity/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<h2 id="test">Programmer Humor</h2>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </html>
