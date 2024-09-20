@@ -1,5 +1,9 @@
-```
+```yaml
 {
+    "Location": {
+        "Minnesota, United States"
+    }
+
     "OS": {
         "Main": "Ubuntu Linux",
         "Other": "Windows 10"
