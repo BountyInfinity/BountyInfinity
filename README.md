@@ -42,7 +42,8 @@
 
 <h2 align="left">Stats</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BountyInfinity&theme=dark&line_height=10&hide_langs_below=1&layout=compact" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BountyInfinity&langs_count=14&theme=dark&layout=donut)
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BountyInfinity&theme=dark" alt="BountyInfinity" /></p><br>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/B0UNTYINFINITY/B0UNTYINFINITY/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/BountyInfinity/BountyInfinity/output/github-contribution-grid-snake.svg#gh-light-mode-only)
