@@ -6,7 +6,7 @@
 
     "OS": {
         "Main": "Ubuntu Linux",
-        "Other": "Windows 10"
+        "Other": "Windows 11"
     },
 
     "Languages": [
@@ -23,6 +23,7 @@
         "Language": "Rust",
         "Programmer": "Linus Torvalds",
         "Mode": "Dark"
+        "Windows": "Windows 10"
     }
 }
 ```
