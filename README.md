@@ -7,6 +7,7 @@
     "OS": {
         "Main": "Ubuntu Linux",
         "Other": "Windows 11"
+        "To Be": "Arch Linux"
     },
 
     "Languages": [
