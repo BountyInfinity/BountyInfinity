@@ -11,13 +11,13 @@
     },
 
     "Languages": [
-        "Markdown",
+        "Rust",
+        "C++",
+        "Javascript",
         "CSS",
         "HTML",
-        "Javascript",
         "Java",
-        "C++",
-        "Rust"
+        "Markdown"
     ],
 
     "Favorite": {
@@ -31,6 +31,7 @@
 
 <h2>About me</h2>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=BountyInfinity&color=blue&label=Profile+Visitors" alt="BountyInfinity" /> 
   <img src="https://img.shields.io/badge/OS-Ubuntu%20Linux-/?logo=Ubuntu&color=darkorange" alt="ubuntu">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-/?logo=visualstudiocode&logoColor=blue&color=blue" alt="vscode">
   <img src="https://img.shields.io/badge/Knows-MarkDown-/?logo=markdown&color=white" alt="markdown">
@@ -45,8 +46,6 @@
 <h2 align="left">Stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BountyInfinity&langs_count=14&theme=dark&layout=donut)
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BountyInfinity&theme=dark" alt="BountyInfinity" /></p><br>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/B0UNTYINFINITY/B0UNTYINFINITY/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/BountyInfinity/BountyInfinity/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
