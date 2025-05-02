@@ -6,7 +6,7 @@
 
     "OS": {
         "Main": "Ubuntu Linux",
-        "Other": "Windows 11"
+        "Other": "Windows 11",
         "To Be": "Arch Linux"
     },
 
@@ -23,7 +23,7 @@
     "Favorite": {
         "Language": "Rust",
         "Programmer": "Linus Torvalds",
-        "Mode": "Dark"
+        "Mode": "Dark",
         "Windows": "Windows 10"
     }
 }
