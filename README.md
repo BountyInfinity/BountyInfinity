@@ -3,13 +3,10 @@
     "Location": {
         "Minnesota, United States"
     }
-
     "OS": {
         "Main": "Ubuntu Linux",
-        "Other": "Windows 11",
-        "To Be": "Arch Linux"
+        "Other": "Windows 11"
     },
-
     "Languages": [
         "Rust",
         "C++",
@@ -19,7 +16,6 @@
         "Java",
         "Markdown"
     ],
-
     "Favorite": {
         "Language": "Rust",
         "Programmer": "Linus Torvalds",
